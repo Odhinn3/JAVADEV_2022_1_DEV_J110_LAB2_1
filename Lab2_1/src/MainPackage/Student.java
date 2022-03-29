@@ -17,8 +17,6 @@ public class Student extends Person {//класс студентов и аспи
     public Student() {
     }
 
- 
-    
     //конструктор аспиранта (четыре поля)
     public Student(String name, Gend gender, String department, String thesis) {
         super(name, gender, department);
