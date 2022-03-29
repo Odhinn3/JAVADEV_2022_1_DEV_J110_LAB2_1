@@ -5,10 +5,7 @@
  */
 package MainPackage;
 
-/**
- *
- * @author user
- */
+
 public class Student extends Person {//класс студентов и аспирантов
     enum Stage {BACHELOR, MASTER}//константы ступени обучения
     Stage stage;//ступень обучения
